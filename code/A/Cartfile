@@ -1,0 +1,6 @@
+# The innermost framework
+github "nicolas-miari/NestedFrameworkDemo-C"
+
+# The intermediate framework
+github "nicolas-miari/NestedFrameworkDemo-B"
+
